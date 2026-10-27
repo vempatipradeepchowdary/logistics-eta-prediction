@@ -1,0 +1,380 @@
+[
+  {
+    "delay_id": "DLY-2026-000001",
+    "shipment_id": "SHP-2026-000015",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 33,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000002",
+    "shipment_id": "SHP-2026-000016",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 248,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000003",
+    "shipment_id": "SHP-2026-000017",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 45,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000004",
+    "shipment_id": "SHP-2026-000018",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 212,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000005",
+    "shipment_id": "SHP-2026-000028",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 107,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000006",
+    "shipment_id": "SHP-2026-000029",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 226,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000007",
+    "shipment_id": "SHP-2026-000030",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 259,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000008",
+    "shipment_id": "SHP-2026-000032",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 147,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000009",
+    "shipment_id": "SHP-2026-000036",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 154,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000010",
+    "shipment_id": "SHP-2026-000042",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 193,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000011",
+    "shipment_id": "SHP-2026-000044",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 158,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000012",
+    "shipment_id": "SHP-2026-000046",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 105,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000013",
+    "shipment_id": "SHP-2026-000047",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 299,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000014",
+    "shipment_id": "SHP-2026-000054",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 149,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000015",
+    "shipment_id": "SHP-2026-000055",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 267,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000016",
+    "shipment_id": "SHP-2026-000058",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 311,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000017",
+    "shipment_id": "SHP-2026-000069",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 301,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000018",
+    "shipment_id": "SHP-2026-000075",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 41,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000019",
+    "shipment_id": "SHP-2026-000079",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 88,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000020",
+    "shipment_id": "SHP-2026-000083",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 107,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000021",
+    "shipment_id": "SHP-2026-000090",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 66,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000022",
+    "shipment_id": "SHP-2026-000095",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 192,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000023",
+    "shipment_id": "SHP-2026-000099",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 201,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000024",
+    "shipment_id": "SHP-2026-000101",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 43,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000025",
+    "shipment_id": "SHP-2026-000104",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 353,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000026",
+    "shipment_id": "SHP-2026-000108",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 295,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000027",
+    "shipment_id": "SHP-2026-000110",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 205,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000028",
+    "shipment_id": "SHP-2026-000112",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 317,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000029",
+    "shipment_id": "SHP-2026-000126",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 185,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000030",
+    "shipment_id": "SHP-2026-000129",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 213,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000031",
+    "shipment_id": "SHP-2026-000132",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 168,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000032",
+    "shipment_id": "SHP-2026-000133",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 191,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000033",
+    "shipment_id": "SHP-2026-000134",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 194,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000034",
+    "shipment_id": "SHP-2026-000141",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 266,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000035",
+    "shipment_id": "SHP-2026-000143",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 359,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000036",
+    "shipment_id": "SHP-2026-000144",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 40,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000037",
+    "shipment_id": "SHP-2026-000148",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 105,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000038",
+    "shipment_id": "SHP-2026-000149",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 76,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000039",
+    "shipment_id": "SHP-2026-000154",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 348,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000040",
+    "shipment_id": "SHP-2026-000156",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 184,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000041",
+    "shipment_id": "SHP-2026-000160",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 292,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000042",
+    "shipment_id": "SHP-2026-000161",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 34,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000043",
+    "shipment_id": "SHP-2026-000174",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 241,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000044",
+    "shipment_id": "SHP-2026-000176",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 269,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000045",
+    "shipment_id": "SHP-2026-000179",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 180,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000046",
+    "shipment_id": "SHP-2026-000180",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 39,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000047",
+    "shipment_id": "SHP-2026-000184",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 71,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000048",
+    "shipment_id": "SHP-2026-000185",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 40,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000049",
+    "shipment_id": "SHP-2026-000189",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 315,
+    "rule": "delay exceeds 30 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000050",
+    "shipment_id": "SHP-2026-000190",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 349,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000051",
+    "shipment_id": "SHP-2026-000191",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 193,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000052",
+    "shipment_id": "SHP-2026-000192",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 177,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000053",
+    "shipment_id": "SHP-2026-000196",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 211,
+    "rule": "delay exceeds 60 minutes"
+  },
+  {
+    "delay_id": "DLY-2026-000054",
+    "shipment_id": "SHP-2026-000200",
+    "reason_code": "TRANSIT_DELAY",
+    "delay_minutes": 335,
+    "rule": "delay exceeds 60 minutes"
+  }
+]

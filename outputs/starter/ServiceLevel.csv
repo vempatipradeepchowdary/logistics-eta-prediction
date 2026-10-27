@@ -1,0 +1,3 @@
+service_level_id,service_name,max_transit_hours,delay_threshold_minutes
+SLA-000001,standard,72,60
+SLA-000002,express,36,30

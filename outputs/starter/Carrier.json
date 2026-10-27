@@ -1,0 +1,32 @@
+[
+  {
+    "carrier_id": "CAR-000001",
+    "carrier_name": "Carrier 001",
+    "service_level": "standard",
+    "active": true
+  },
+  {
+    "carrier_id": "CAR-000002",
+    "carrier_name": "Carrier 002",
+    "service_level": "standard",
+    "active": true
+  },
+  {
+    "carrier_id": "CAR-000003",
+    "carrier_name": "Carrier 003",
+    "service_level": "express",
+    "active": true
+  },
+  {
+    "carrier_id": "CAR-000004",
+    "carrier_name": "Carrier 004",
+    "service_level": "standard",
+    "active": true
+  },
+  {
+    "carrier_id": "CAR-000005",
+    "carrier_name": "Carrier 005",
+    "service_level": "standard",
+    "active": true
+  }
+]

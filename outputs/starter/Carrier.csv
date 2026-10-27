@@ -1,0 +1,6 @@
+carrier_id,carrier_name,service_level,active
+CAR-000001,Carrier 001,standard,True
+CAR-000002,Carrier 002,standard,True
+CAR-000003,Carrier 003,express,True
+CAR-000004,Carrier 004,standard,True
+CAR-000005,Carrier 005,standard,True

@@ -1,0 +1,66 @@
+[
+  {
+    "queue_id": "QUE-000001",
+    "facility_id": "FAC-000007",
+    "queue_length": 2,
+    "estimated_wait_minutes": 184,
+    "observed_at": "2026-10-03T01:00:00Z",
+    "valid_until": "2026-10-03T07:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000002",
+    "facility_id": "FAC-000004",
+    "queue_length": 14,
+    "estimated_wait_minutes": 79,
+    "observed_at": "2026-10-10T10:00:00Z",
+    "valid_until": "2026-10-10T20:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000003",
+    "facility_id": "FAC-000004",
+    "queue_length": 14,
+    "estimated_wait_minutes": 22,
+    "observed_at": "2026-10-04T05:00:00Z",
+    "valid_until": "2026-10-04T17:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000005",
+    "facility_id": "FAC-000008",
+    "queue_length": 24,
+    "estimated_wait_minutes": 166,
+    "observed_at": "2026-10-04T22:00:00Z",
+    "valid_until": "2026-10-05T10:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000009",
+    "facility_id": "FAC-000001",
+    "queue_length": 15,
+    "estimated_wait_minutes": 17,
+    "observed_at": "2026-10-20T14:00:00Z",
+    "valid_until": "2026-10-20T15:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000010",
+    "facility_id": "FAC-000007",
+    "queue_length": 29,
+    "estimated_wait_minutes": 178,
+    "observed_at": "2026-10-11T17:00:00Z",
+    "valid_until": "2026-10-12T02:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000012",
+    "facility_id": "FAC-000010",
+    "queue_length": 7,
+    "estimated_wait_minutes": 231,
+    "observed_at": "2026-10-02T05:00:00Z",
+    "valid_until": "2026-10-02T14:00:00Z"
+  },
+  {
+    "queue_id": "QUE-000016",
+    "facility_id": "FAC-000010",
+    "queue_length": 26,
+    "estimated_wait_minutes": 53,
+    "observed_at": "2026-10-20T01:00:00Z",
+    "valid_until": "2026-10-20T03:00:00Z"
+  }
+]

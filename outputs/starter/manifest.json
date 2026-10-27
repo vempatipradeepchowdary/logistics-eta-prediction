@@ -1,0 +1,53 @@
+{
+  "datasets": {
+    "Carrier": {
+      "row_count": 5,
+      "csv_sha256": "cf776154551cfa8512cdf1d3d55aa3119e7739d17a65ccbcfeff032a51d7f912"
+    },
+    "Facility": {
+      "row_count": 10,
+      "csv_sha256": "303ebd2f7ba1a8b7dba76bbb6bd3ad6cf64a47ec7d062135a43ffd70dc2407ff"
+    },
+    "Route": {
+      "row_count": 10,
+      "csv_sha256": "e9a77a3c3e87e2aac2ae62fad3a084e3cfe4066557dfa85f516d2bbe578b98a0"
+    },
+    "ServiceLevel": {
+      "row_count": 2,
+      "csv_sha256": "c5df5569dbda61f4ee87111d8fa5f13147863fa89731bcf6191886fdac6bbdf8"
+    },
+    "Shipment": {
+      "row_count": 200,
+      "csv_sha256": "ebc89d739fb7fa8adc6be80208f267745b250ce90d9cd785e5738dd3999b5eba"
+    },
+    "ShipmentLeg": {
+      "row_count": 261,
+      "csv_sha256": "33659be1b3c57cb5cc0d78aa16a53ac53753537b5a132a90f94886b315a3ccde"
+    },
+    "TrackingEvent": {
+      "row_count": 1202,
+      "csv_sha256": "f3d99835459ef83583c71994ade0f1c6c85a379dbe97a7a505f2295e3fec0e20"
+    },
+    "FacilityQueue": {
+      "row_count": 8,
+      "csv_sha256": "5ee1eb1e42d21926e471fcf16b6356740763c9121b45a2daf040053dd713a1cb"
+    },
+    "WeatherEvent": {
+      "row_count": 12,
+      "csv_sha256": "2cdfa73e72c0c2e1bfee7ee6385537e03732dac0322c1efa7f1cb0e78d4f7dea"
+    },
+    "ETAEstimate": {
+      "row_count": 200,
+      "csv_sha256": "22f29103793f1c83677edc094b6151f35b0b33888734b01f6d68f8745dcfa0bd"
+    },
+    "DelayReason": {
+      "row_count": 54,
+      "csv_sha256": "8d28b34f7b4765a7924800d8492fa45b4bca72020afa9c32bbaccf97582e4ffe"
+    },
+    "ground_truth": {
+      "row_count": 205,
+      "csv_sha256": "fd0cc35271359cad6f9d6c9b67c6ea32f13d74a562e907dab79bea3ca3a93cf9"
+    }
+  },
+  "note": "Synthetic data; ground_truth is kept separate from model inputs."
+}

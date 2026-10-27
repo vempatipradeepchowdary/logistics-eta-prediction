@@ -1,0 +1,15 @@
+{
+  "evaluated_shipments": 181,
+  "missing_predictions": [],
+  "mae_minutes": 70.28,
+  "rmse_minutes": 116.63,
+  "precision": 0.5,
+  "recall": 0.0556,
+  "f1": 0.1,
+  "confusion_matrix": {
+    "true_positive": 3,
+    "false_positive": 3,
+    "true_negative": 124,
+    "false_negative": 51
+  }
+}

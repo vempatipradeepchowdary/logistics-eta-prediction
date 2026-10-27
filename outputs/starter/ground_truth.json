@@ -1,0 +1,1442 @@
+[
+  {
+    "shipment_id": "SHP-2026-000001",
+    "actual_delivery_time": "2026-10-04T16:02:00Z",
+    "actual_delay_minutes": 2,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000002",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000003",
+    "actual_delivery_time": "2026-10-06T18:10:00Z",
+    "actual_delay_minutes": 10,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000004",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000005",
+    "actual_delivery_time": "2026-10-17T04:38:00Z",
+    "actual_delay_minutes": 38,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000006",
+    "actual_delivery_time": "2026-10-20T14:22:00Z",
+    "actual_delay_minutes": 22,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000007",
+    "actual_delivery_time": "2026-10-17T10:32:00Z",
+    "actual_delay_minutes": 32,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000008",
+    "actual_delivery_time": "2026-10-15T18:23:00Z",
+    "actual_delay_minutes": 23,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000009",
+    "actual_delivery_time": "2026-10-11T08:04:00Z",
+    "actual_delay_minutes": 4,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000010",
+    "actual_delivery_time": "2026-10-22T03:24:00Z",
+    "actual_delay_minutes": 24,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000011",
+    "actual_delivery_time": "2026-10-03T15:30:00Z",
+    "actual_delay_minutes": 30,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000012",
+    "actual_delivery_time": "2026-10-14T17:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000013",
+    "actual_delivery_time": "2026-10-15T06:19:00Z",
+    "actual_delay_minutes": 19,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000014",
+    "actual_delivery_time": "2026-10-08T01:18:00Z",
+    "actual_delay_minutes": 18,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000015",
+    "actual_delivery_time": "2026-10-10T04:33:00Z",
+    "actual_delay_minutes": 33,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000016",
+    "actual_delivery_time": "2026-10-08T10:08:00Z",
+    "actual_delay_minutes": 248,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000017",
+    "actual_delivery_time": "2026-10-02T07:45:00Z",
+    "actual_delay_minutes": 45,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000018",
+    "actual_delivery_time": "2026-10-19T15:32:00Z",
+    "actual_delay_minutes": 212,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000019",
+    "actual_delivery_time": "2026-10-15T12:10:00Z",
+    "actual_delay_minutes": 10,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000020",
+    "actual_delivery_time": "2026-10-10T01:45:00Z",
+    "actual_delay_minutes": 45,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000021",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000022",
+    "actual_delivery_time": "2026-10-22T08:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000023",
+    "actual_delivery_time": "2026-10-08T16:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000024",
+    "actual_delivery_time": "2026-10-11T18:18:00Z",
+    "actual_delay_minutes": 18,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000025",
+    "actual_delivery_time": "2026-10-06T11:08:00Z",
+    "actual_delay_minutes": 8,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000026",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000027",
+    "actual_delivery_time": "2026-10-08T03:13:00Z",
+    "actual_delay_minutes": 13,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000028",
+    "actual_delivery_time": "2026-10-05T17:47:00Z",
+    "actual_delay_minutes": 107,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000029",
+    "actual_delivery_time": "2026-10-06T04:46:00Z",
+    "actual_delay_minutes": 226,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000030",
+    "actual_delivery_time": "2026-10-08T05:19:00Z",
+    "actual_delay_minutes": 259,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000031",
+    "actual_delivery_time": "2026-10-04T10:02:00Z",
+    "actual_delay_minutes": 2,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000032",
+    "actual_delivery_time": "2026-10-07T03:27:00Z",
+    "actual_delay_minutes": 147,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000033",
+    "actual_delivery_time": "2026-10-08T19:31:00Z",
+    "actual_delay_minutes": 31,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000034",
+    "actual_delivery_time": "2026-10-13T10:29:00Z",
+    "actual_delay_minutes": 29,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000035",
+    "actual_delivery_time": "2026-10-13T20:34:00Z",
+    "actual_delay_minutes": 34,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000036",
+    "actual_delivery_time": "2026-10-06T10:34:00Z",
+    "actual_delay_minutes": 154,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000037",
+    "actual_delivery_time": "2026-10-15T00:23:00Z",
+    "actual_delay_minutes": 23,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000038",
+    "actual_delivery_time": "2026-10-09T19:05:00Z",
+    "actual_delay_minutes": 5,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000039",
+    "actual_delivery_time": "2026-10-05T05:36:00Z",
+    "actual_delay_minutes": 36,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000040",
+    "actual_delivery_time": "2026-10-21T23:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000041",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000042",
+    "actual_delivery_time": "2026-10-03T09:13:00Z",
+    "actual_delay_minutes": 193,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000043",
+    "actual_delivery_time": "2026-10-10T22:44:00Z",
+    "actual_delay_minutes": 44,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000044",
+    "actual_delivery_time": "2026-10-20T18:38:00Z",
+    "actual_delay_minutes": 158,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000045",
+    "actual_delivery_time": "2026-10-10T01:12:00Z",
+    "actual_delay_minutes": 12,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000046",
+    "actual_delivery_time": "2026-10-15T11:45:00Z",
+    "actual_delay_minutes": 105,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000047",
+    "actual_delivery_time": "2026-10-20T11:59:00Z",
+    "actual_delay_minutes": 299,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000048",
+    "actual_delivery_time": "2026-10-17T09:10:00Z",
+    "actual_delay_minutes": 10,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000049",
+    "actual_delivery_time": "2026-10-05T03:24:00Z",
+    "actual_delay_minutes": 24,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000050",
+    "actual_delivery_time": "2026-10-08T09:08:00Z",
+    "actual_delay_minutes": 8,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000051",
+    "actual_delivery_time": "2026-10-20T10:00:00Z",
+    "actual_delay_minutes": 0,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000052",
+    "actual_delivery_time": "2026-10-15T14:26:00Z",
+    "actual_delay_minutes": 26,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000053",
+    "actual_delivery_time": "2026-10-05T05:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000054",
+    "actual_delivery_time": "2026-10-23T13:29:00Z",
+    "actual_delay_minutes": 149,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000055",
+    "actual_delivery_time": "2026-10-12T20:27:00Z",
+    "actual_delay_minutes": 267,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000056",
+    "actual_delivery_time": "2026-10-08T22:17:00Z",
+    "actual_delay_minutes": 17,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000057",
+    "actual_delivery_time": "2026-10-10T21:37:00Z",
+    "actual_delay_minutes": 37,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000058",
+    "actual_delivery_time": "2026-10-18T03:11:00Z",
+    "actual_delay_minutes": 311,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000059",
+    "actual_delivery_time": "2026-10-11T21:11:00Z",
+    "actual_delay_minutes": 11,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000060",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000061",
+    "actual_delivery_time": "2026-10-16T11:19:00Z",
+    "actual_delay_minutes": 19,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000062",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000063",
+    "actual_delivery_time": "2026-10-19T23:45:00Z",
+    "actual_delay_minutes": 45,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000064",
+    "actual_delivery_time": "2026-10-07T04:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000065",
+    "actual_delivery_time": "2026-10-07T08:12:00Z",
+    "actual_delay_minutes": 12,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000066",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000067",
+    "actual_delivery_time": "2026-10-06T20:39:00Z",
+    "actual_delay_minutes": 39,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000068",
+    "actual_delivery_time": "2026-10-21T18:39:00Z",
+    "actual_delay_minutes": 39,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000069",
+    "actual_delivery_time": "2026-10-16T01:01:00Z",
+    "actual_delay_minutes": 301,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000070",
+    "actual_delivery_time": "2026-10-08T10:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000071",
+    "actual_delivery_time": "2026-10-08T18:04:00Z",
+    "actual_delay_minutes": 4,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000072",
+    "actual_delivery_time": "2026-10-20T21:15:00Z",
+    "actual_delay_minutes": 15,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000073",
+    "actual_delivery_time": "2026-10-07T08:14:00Z",
+    "actual_delay_minutes": 14,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000074",
+    "actual_delivery_time": "2026-10-19T23:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000075",
+    "actual_delivery_time": "2026-10-22T18:41:00Z",
+    "actual_delay_minutes": 41,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000076",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000077",
+    "actual_delivery_time": "2026-10-08T16:09:00Z",
+    "actual_delay_minutes": 9,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000078",
+    "actual_delivery_time": "2026-10-10T04:21:00Z",
+    "actual_delay_minutes": 21,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000079",
+    "actual_delivery_time": "2026-10-15T19:28:00Z",
+    "actual_delay_minutes": 88,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000080",
+    "actual_delivery_time": "2026-10-07T08:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000081",
+    "actual_delivery_time": "2026-10-18T18:09:00Z",
+    "actual_delay_minutes": 9,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000082",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000083",
+    "actual_delivery_time": "2026-10-06T10:47:00Z",
+    "actual_delay_minutes": 107,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000084",
+    "actual_delivery_time": "2026-10-20T11:09:00Z",
+    "actual_delay_minutes": 9,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000085",
+    "actual_delivery_time": "2026-10-11T06:33:00Z",
+    "actual_delay_minutes": 33,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000086",
+    "actual_delivery_time": "2026-10-15T12:38:00Z",
+    "actual_delay_minutes": 38,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000087",
+    "actual_delivery_time": "2026-10-12T22:14:00Z",
+    "actual_delay_minutes": 14,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000088",
+    "actual_delivery_time": "2026-10-14T03:28:00Z",
+    "actual_delay_minutes": 28,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000089",
+    "actual_delivery_time": "2026-10-06T23:08:00Z",
+    "actual_delay_minutes": 8,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000090",
+    "actual_delivery_time": "2026-10-21T22:06:00Z",
+    "actual_delay_minutes": 66,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000091",
+    "actual_delivery_time": "2026-10-20T23:44:00Z",
+    "actual_delay_minutes": 44,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000092",
+    "actual_delivery_time": "2026-10-18T22:21:00Z",
+    "actual_delay_minutes": 21,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000093",
+    "actual_delivery_time": "2026-10-15T13:33:00Z",
+    "actual_delay_minutes": 33,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000094",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000095",
+    "actual_delivery_time": "2026-10-10T16:12:00Z",
+    "actual_delay_minutes": 192,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000096",
+    "actual_delivery_time": "2026-10-07T02:07:00Z",
+    "actual_delay_minutes": 7,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000097",
+    "actual_delivery_time": "2026-10-20T19:21:00Z",
+    "actual_delay_minutes": 21,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000098",
+    "actual_delivery_time": "2026-10-13T22:42:00Z",
+    "actual_delay_minutes": 42,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000099",
+    "actual_delivery_time": "2026-10-17T19:21:00Z",
+    "actual_delay_minutes": 201,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000100",
+    "actual_delivery_time": "2026-10-06T00:13:00Z",
+    "actual_delay_minutes": 13,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000101",
+    "actual_delivery_time": "2026-10-18T06:43:00Z",
+    "actual_delay_minutes": 43,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000102",
+    "actual_delivery_time": "2026-10-05T23:27:00Z",
+    "actual_delay_minutes": 27,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000103",
+    "actual_delivery_time": "2026-10-22T08:22:00Z",
+    "actual_delay_minutes": 22,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000104",
+    "actual_delivery_time": "2026-10-03T09:53:00Z",
+    "actual_delay_minutes": 353,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000105",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000106",
+    "actual_delivery_time": "2026-10-15T14:24:00Z",
+    "actual_delay_minutes": 24,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000107",
+    "actual_delivery_time": "2026-10-04T00:06:00Z",
+    "actual_delay_minutes": 6,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000108",
+    "actual_delivery_time": "2026-10-12T20:55:00Z",
+    "actual_delay_minutes": 295,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000109",
+    "actual_delivery_time": "2026-10-05T19:31:00Z",
+    "actual_delay_minutes": 31,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000110",
+    "actual_delivery_time": "2026-10-21T19:25:00Z",
+    "actual_delay_minutes": 205,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000111",
+    "actual_delivery_time": "2026-10-22T02:05:00Z",
+    "actual_delay_minutes": 5,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000112",
+    "actual_delivery_time": "2026-10-20T01:17:00Z",
+    "actual_delay_minutes": 317,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000113",
+    "actual_delivery_time": "2026-10-11T00:12:00Z",
+    "actual_delay_minutes": 12,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000114",
+    "actual_delivery_time": "2026-10-21T08:41:00Z",
+    "actual_delay_minutes": 41,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000115",
+    "actual_delivery_time": "2026-10-15T18:23:00Z",
+    "actual_delay_minutes": 23,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000116",
+    "actual_delivery_time": "2026-10-19T15:11:00Z",
+    "actual_delay_minutes": 11,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000117",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000118",
+    "actual_delivery_time": "2026-10-11T14:06:00Z",
+    "actual_delay_minutes": 6,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000119",
+    "actual_delivery_time": "2026-10-19T23:06:00Z",
+    "actual_delay_minutes": 6,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000120",
+    "actual_delivery_time": "2026-10-14T02:15:00Z",
+    "actual_delay_minutes": 15,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000121",
+    "actual_delivery_time": "2026-10-20T01:06:00Z",
+    "actual_delay_minutes": 6,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000122",
+    "actual_delivery_time": "2026-10-19T05:15:00Z",
+    "actual_delay_minutes": 15,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000123",
+    "actual_delivery_time": "2026-10-11T11:05:00Z",
+    "actual_delay_minutes": 5,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000124",
+    "actual_delivery_time": "2026-10-13T14:44:00Z",
+    "actual_delay_minutes": 44,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000125",
+    "actual_delivery_time": "2026-10-07T06:21:00Z",
+    "actual_delay_minutes": 21,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000126",
+    "actual_delivery_time": "2026-10-14T11:05:00Z",
+    "actual_delay_minutes": 185,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000127",
+    "actual_delivery_time": "2026-10-21T18:36:00Z",
+    "actual_delay_minutes": 36,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000128",
+    "actual_delivery_time": "2026-10-02T17:00:00Z",
+    "actual_delay_minutes": 0,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000129",
+    "actual_delivery_time": "2026-10-03T09:33:00Z",
+    "actual_delay_minutes": 213,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000130",
+    "actual_delivery_time": "2026-10-21T03:30:00Z",
+    "actual_delay_minutes": 30,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000131",
+    "actual_delivery_time": "2026-10-06T15:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000132",
+    "actual_delivery_time": "2026-10-18T07:48:00Z",
+    "actual_delay_minutes": 168,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000133",
+    "actual_delivery_time": "2026-10-15T04:11:00Z",
+    "actual_delay_minutes": 191,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000134",
+    "actual_delivery_time": "2026-10-12T01:14:00Z",
+    "actual_delay_minutes": 194,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000135",
+    "actual_delivery_time": "2026-10-14T14:22:00Z",
+    "actual_delay_minutes": 22,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000136",
+    "actual_delivery_time": "2026-10-07T18:08:00Z",
+    "actual_delay_minutes": 8,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000137",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000138",
+    "actual_delivery_time": "2026-10-15T16:20:00Z",
+    "actual_delay_minutes": 20,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000139",
+    "actual_delivery_time": "2026-10-17T21:09:00Z",
+    "actual_delay_minutes": 9,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000140",
+    "actual_delivery_time": "2026-10-10T15:36:00Z",
+    "actual_delay_minutes": 36,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000141",
+    "actual_delivery_time": "2026-10-03T09:26:00Z",
+    "actual_delay_minutes": 266,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000142",
+    "actual_delivery_time": "2026-10-12T16:34:00Z",
+    "actual_delay_minutes": 34,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000143",
+    "actual_delivery_time": "2026-10-16T22:59:00Z",
+    "actual_delay_minutes": 359,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000144",
+    "actual_delivery_time": "2026-10-10T11:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000145",
+    "actual_delivery_time": "2026-10-03T13:00:00Z",
+    "actual_delay_minutes": 0,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000146",
+    "actual_delivery_time": "2026-10-08T19:37:00Z",
+    "actual_delay_minutes": 37,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000147",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000148",
+    "actual_delivery_time": "2026-10-21T16:45:00Z",
+    "actual_delay_minutes": 105,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000149",
+    "actual_delivery_time": "2026-10-20T16:16:00Z",
+    "actual_delay_minutes": 76,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000150",
+    "actual_delivery_time": "2026-10-03T16:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000151",
+    "actual_delivery_time": "2026-10-11T07:26:00Z",
+    "actual_delay_minutes": 26,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000152",
+    "actual_delivery_time": "2026-10-16T01:01:00Z",
+    "actual_delay_minutes": 1,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000153",
+    "actual_delivery_time": "2026-10-21T08:06:00Z",
+    "actual_delay_minutes": 6,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000154",
+    "actual_delivery_time": "2026-10-09T15:48:00Z",
+    "actual_delay_minutes": 348,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000155",
+    "actual_delivery_time": "2026-10-11T15:10:00Z",
+    "actual_delay_minutes": 10,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000156",
+    "actual_delivery_time": "2026-10-17T08:04:00Z",
+    "actual_delay_minutes": 184,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000157",
+    "actual_delivery_time": "2026-10-17T21:39:00Z",
+    "actual_delay_minutes": 39,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000158",
+    "actual_delivery_time": "2026-10-10T21:30:00Z",
+    "actual_delay_minutes": 30,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000159",
+    "actual_delivery_time": "2026-10-05T08:12:00Z",
+    "actual_delay_minutes": 12,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000160",
+    "actual_delivery_time": "2026-10-05T16:52:00Z",
+    "actual_delay_minutes": 292,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000161",
+    "actual_delivery_time": "2026-10-20T20:34:00Z",
+    "actual_delay_minutes": 34,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000162",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000163",
+    "actual_delivery_time": "2026-10-06T20:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000164",
+    "actual_delivery_time": "2026-10-11T03:04:00Z",
+    "actual_delay_minutes": 4,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000165",
+    "actual_delivery_time": "2026-10-09T19:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000166",
+    "actual_delivery_time": "2026-10-06T08:24:00Z",
+    "actual_delay_minutes": 24,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000167",
+    "actual_delivery_time": "2026-10-17T16:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000168",
+    "actual_delivery_time": "2026-10-08T14:14:00Z",
+    "actual_delay_minutes": 14,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000169",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000170",
+    "actual_delivery_time": "2026-10-04T14:19:00Z",
+    "actual_delay_minutes": 19,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000171",
+    "actual_delivery_time": "2026-10-21T15:31:00Z",
+    "actual_delay_minutes": 31,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000172",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000173",
+    "actual_delivery_time": "2026-10-18T00:38:00Z",
+    "actual_delay_minutes": 38,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000174",
+    "actual_delivery_time": "2026-10-13T02:01:00Z",
+    "actual_delay_minutes": 241,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000175",
+    "actual_delivery_time": "2026-10-14T17:07:00Z",
+    "actual_delay_minutes": 7,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000176",
+    "actual_delivery_time": "2026-10-12T05:29:00Z",
+    "actual_delay_minutes": 269,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000177",
+    "actual_delivery_time": "2026-10-11T19:02:00Z",
+    "actual_delay_minutes": 2,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000178",
+    "actual_delivery_time": "2026-10-06T15:32:00Z",
+    "actual_delay_minutes": 32,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000179",
+    "actual_delivery_time": "2026-10-08T08:00:00Z",
+    "actual_delay_minutes": 180,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000180",
+    "actual_delivery_time": "2026-10-15T07:39:00Z",
+    "actual_delay_minutes": 39,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000181",
+    "actual_delivery_time": "2026-10-08T00:28:00Z",
+    "actual_delay_minutes": 28,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000182",
+    "actual_delivery_time": "2026-10-09T04:33:00Z",
+    "actual_delay_minutes": 33,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000183",
+    "actual_delivery_time": "2026-10-02T16:11:00Z",
+    "actual_delay_minutes": 11,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000184",
+    "actual_delivery_time": "2026-10-16T00:11:00Z",
+    "actual_delay_minutes": 71,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000185",
+    "actual_delivery_time": "2026-10-08T21:40:00Z",
+    "actual_delay_minutes": 40,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000186",
+    "actual_delivery_time": "2026-10-04T08:16:00Z",
+    "actual_delay_minutes": 16,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000187",
+    "actual_delivery_time": "2026-10-07T22:19:00Z",
+    "actual_delay_minutes": 19,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000188",
+    "actual_delivery_time": "2026-10-10T14:25:00Z",
+    "actual_delay_minutes": 25,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000189",
+    "actual_delivery_time": "2026-10-06T22:15:00Z",
+    "actual_delay_minutes": 315,
+    "is_delayed": true,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000190",
+    "actual_delivery_time": "2026-10-05T20:49:00Z",
+    "actual_delay_minutes": 349,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000191",
+    "actual_delivery_time": "2026-10-03T02:13:00Z",
+    "actual_delay_minutes": 193,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000192",
+    "actual_delivery_time": "2026-10-18T17:57:00Z",
+    "actual_delay_minutes": 177,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000193",
+    "actual_delivery_time": "2026-10-17T06:02:00Z",
+    "actual_delay_minutes": 2,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000194",
+    "actual_delivery_time": "2026-10-08T03:21:00Z",
+    "actual_delay_minutes": 21,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000195",
+    "actual_delivery_time": "2026-10-03T23:14:00Z",
+    "actual_delay_minutes": 14,
+    "is_delayed": false,
+    "label_rule": "actual delay > 30 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000196",
+    "actual_delivery_time": "2026-10-17T23:31:00Z",
+    "actual_delay_minutes": 211,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000197",
+    "actual_delivery_time": "2026-10-21T17:18:00Z",
+    "actual_delay_minutes": 18,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000198",
+    "actual_delivery_time": "2026-10-02T14:38:00Z",
+    "actual_delay_minutes": 38,
+    "is_delayed": false,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000199",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "not delivered; final delay label unavailable"
+  },
+  {
+    "shipment_id": "SHP-2026-000200",
+    "actual_delivery_time": "2026-10-11T14:35:00Z",
+    "actual_delay_minutes": 335,
+    "is_delayed": true,
+    "label_rule": "actual delay > 60 minutes"
+  },
+  {
+    "shipment_id": "SHP-2026-000001",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "anomaly case; inspect issue_type",
+    "issue_type": "late_ingestion"
+  },
+  {
+    "shipment_id": "SHP-2026-000002",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "anomaly case; inspect issue_type",
+    "issue_type": "duplicate_event"
+  },
+  {
+    "shipment_id": "SHP-2026-000003",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "anomaly case; inspect issue_type",
+    "issue_type": "impossible_route_order"
+  },
+  {
+    "shipment_id": "SHP-2026-000004",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "anomaly case; inspect issue_type",
+    "issue_type": "future_event_leakage"
+  },
+  {
+    "shipment_id": "SHP-2026-000005",
+    "actual_delivery_time": "",
+    "actual_delay_minutes": "",
+    "is_delayed": "",
+    "label_rule": "anomaly case; inspect issue_type",
+    "issue_type": "delivered_but_in_transit"
+  }
+]

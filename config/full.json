@@ -1,0 +1,12 @@
+
+{
+  "seed": 20261022,
+  "shipments": 50000,
+  "facilities": 100,
+  "carriers": 20,
+  "tracking_events_per_shipment": 6,
+  "disruption_windows": 1000,
+  "database_path": "outputs/full/logistics.db",
+  "export_directory": "outputs/full",
+  "prediction_hours_before_eta": 24
+}

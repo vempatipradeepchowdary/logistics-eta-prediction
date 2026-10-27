@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary database files
+*.db-journal
+*.sqlite-journal
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Exclude large full-run generated outputs from Git
+outputs/full/
+
+# Keep the starter sample outputs
+!outputs/starter/

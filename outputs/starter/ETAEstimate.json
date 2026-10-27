@@ -1,0 +1,1602 @@
+[
+  {
+    "eta_id": "ETA-SHP-2026-000001-20261003T160000",
+    "shipment_id": "SHP-2026-000001",
+    "prediction_time": "2026-10-03T16:00:00Z",
+    "predicted_eta": "2026-10-04T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000002-20261002T230000",
+    "shipment_id": "SHP-2026-000002",
+    "prediction_time": "2026-10-02T23:00:00Z",
+    "predicted_eta": "2026-10-03T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000003-20261005T180000",
+    "shipment_id": "SHP-2026-000003",
+    "prediction_time": "2026-10-05T18:00:00Z",
+    "predicted_eta": "2026-10-06T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000004-20261020T150000",
+    "shipment_id": "SHP-2026-000004",
+    "prediction_time": "2026-10-20T15:00:00Z",
+    "predicted_eta": "2026-10-21T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000005-20261016T040000",
+    "shipment_id": "SHP-2026-000005",
+    "prediction_time": "2026-10-16T04:00:00Z",
+    "predicted_eta": "2026-10-17T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000006-20261019T140000",
+    "shipment_id": "SHP-2026-000006",
+    "prediction_time": "2026-10-19T14:00:00Z",
+    "predicted_eta": "2026-10-20T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000007-20261016T100000",
+    "shipment_id": "SHP-2026-000007",
+    "prediction_time": "2026-10-16T10:00:00Z",
+    "predicted_eta": "2026-10-17T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000008-20261014T180000",
+    "shipment_id": "SHP-2026-000008",
+    "prediction_time": "2026-10-14T18:00:00Z",
+    "predicted_eta": "2026-10-15T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000009-20261010T080000",
+    "shipment_id": "SHP-2026-000009",
+    "prediction_time": "2026-10-10T08:00:00Z",
+    "predicted_eta": "2026-10-11T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000010-20261021T030000",
+    "shipment_id": "SHP-2026-000010",
+    "prediction_time": "2026-10-21T03:00:00Z",
+    "predicted_eta": "2026-10-22T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000011-20261002T150000",
+    "shipment_id": "SHP-2026-000011",
+    "prediction_time": "2026-10-02T15:00:00Z",
+    "predicted_eta": "2026-10-03T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000012-20261013T170000",
+    "shipment_id": "SHP-2026-000012",
+    "prediction_time": "2026-10-13T17:00:00Z",
+    "predicted_eta": "2026-10-14T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000013-20261014T060000",
+    "shipment_id": "SHP-2026-000013",
+    "prediction_time": "2026-10-14T06:00:00Z",
+    "predicted_eta": "2026-10-15T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000014-20261007T010000",
+    "shipment_id": "SHP-2026-000014",
+    "prediction_time": "2026-10-07T01:00:00Z",
+    "predicted_eta": "2026-10-08T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000015-20261009T040000",
+    "shipment_id": "SHP-2026-000015",
+    "prediction_time": "2026-10-09T04:00:00Z",
+    "predicted_eta": "2026-10-10T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000016-20261007T060000",
+    "shipment_id": "SHP-2026-000016",
+    "prediction_time": "2026-10-07T06:00:00Z",
+    "predicted_eta": "2026-10-08T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000017-20261001T070000",
+    "shipment_id": "SHP-2026-000017",
+    "prediction_time": "2026-10-01T07:00:00Z",
+    "predicted_eta": "2026-10-02T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000018-20261018T120000",
+    "shipment_id": "SHP-2026-000018",
+    "prediction_time": "2026-10-18T12:00:00Z",
+    "predicted_eta": "2026-10-19T12:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000019-20261014T120000",
+    "shipment_id": "SHP-2026-000019",
+    "prediction_time": "2026-10-14T12:00:00Z",
+    "predicted_eta": "2026-10-15T12:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000020-20261009T010000",
+    "shipment_id": "SHP-2026-000020",
+    "prediction_time": "2026-10-09T01:00:00Z",
+    "predicted_eta": "2026-10-10T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000021-20261002T200000",
+    "shipment_id": "SHP-2026-000021",
+    "prediction_time": "2026-10-02T20:00:00Z",
+    "predicted_eta": "2026-10-03T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000022-20261021T080000",
+    "shipment_id": "SHP-2026-000022",
+    "prediction_time": "2026-10-21T08:00:00Z",
+    "predicted_eta": "2026-10-22T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000023-20261007T160000",
+    "shipment_id": "SHP-2026-000023",
+    "prediction_time": "2026-10-07T16:00:00Z",
+    "predicted_eta": "2026-10-08T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000024-20261010T180000",
+    "shipment_id": "SHP-2026-000024",
+    "prediction_time": "2026-10-10T18:00:00Z",
+    "predicted_eta": "2026-10-11T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000025-20261005T110000",
+    "shipment_id": "SHP-2026-000025",
+    "prediction_time": "2026-10-05T11:00:00Z",
+    "predicted_eta": "2026-10-06T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000026-20261004T060000",
+    "shipment_id": "SHP-2026-000026",
+    "prediction_time": "2026-10-04T06:00:00Z",
+    "predicted_eta": "2026-10-05T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000027-20261007T030000",
+    "shipment_id": "SHP-2026-000027",
+    "prediction_time": "2026-10-07T03:00:00Z",
+    "predicted_eta": "2026-10-08T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000028-20261004T160000",
+    "shipment_id": "SHP-2026-000028",
+    "prediction_time": "2026-10-04T16:00:00Z",
+    "predicted_eta": "2026-10-05T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000029-20261005T010000",
+    "shipment_id": "SHP-2026-000029",
+    "prediction_time": "2026-10-05T01:00:00Z",
+    "predicted_eta": "2026-10-06T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000030-20261007T010000",
+    "shipment_id": "SHP-2026-000030",
+    "prediction_time": "2026-10-07T01:00:00Z",
+    "predicted_eta": "2026-10-08T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000031-20261003T100000",
+    "shipment_id": "SHP-2026-000031",
+    "prediction_time": "2026-10-03T10:00:00Z",
+    "predicted_eta": "2026-10-04T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000032-20261006T010000",
+    "shipment_id": "SHP-2026-000032",
+    "prediction_time": "2026-10-06T01:00:00Z",
+    "predicted_eta": "2026-10-07T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000033-20261007T190000",
+    "shipment_id": "SHP-2026-000033",
+    "prediction_time": "2026-10-07T19:00:00Z",
+    "predicted_eta": "2026-10-08T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000034-20261012T100000",
+    "shipment_id": "SHP-2026-000034",
+    "prediction_time": "2026-10-12T10:00:00Z",
+    "predicted_eta": "2026-10-13T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000035-20261012T200000",
+    "shipment_id": "SHP-2026-000035",
+    "prediction_time": "2026-10-12T20:00:00Z",
+    "predicted_eta": "2026-10-13T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000036-20261005T080000",
+    "shipment_id": "SHP-2026-000036",
+    "prediction_time": "2026-10-05T08:00:00Z",
+    "predicted_eta": "2026-10-06T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000037-20261014T000000",
+    "shipment_id": "SHP-2026-000037",
+    "prediction_time": "2026-10-14T00:00:00Z",
+    "predicted_eta": "2026-10-15T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000038-20261008T190000",
+    "shipment_id": "SHP-2026-000038",
+    "prediction_time": "2026-10-08T19:00:00Z",
+    "predicted_eta": "2026-10-09T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000039-20261004T050000",
+    "shipment_id": "SHP-2026-000039",
+    "prediction_time": "2026-10-04T05:00:00Z",
+    "predicted_eta": "2026-10-05T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000040-20261020T230000",
+    "shipment_id": "SHP-2026-000040",
+    "prediction_time": "2026-10-20T23:00:00Z",
+    "predicted_eta": "2026-10-21T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000041-20261017T150000",
+    "shipment_id": "SHP-2026-000041",
+    "prediction_time": "2026-10-17T15:00:00Z",
+    "predicted_eta": "2026-10-18T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000042-20261002T060000",
+    "shipment_id": "SHP-2026-000042",
+    "prediction_time": "2026-10-02T06:00:00Z",
+    "predicted_eta": "2026-10-03T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000043-20261009T220000",
+    "shipment_id": "SHP-2026-000043",
+    "prediction_time": "2026-10-09T22:00:00Z",
+    "predicted_eta": "2026-10-10T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000044-20261019T160000",
+    "shipment_id": "SHP-2026-000044",
+    "prediction_time": "2026-10-19T16:00:00Z",
+    "predicted_eta": "2026-10-20T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000045-20261009T010000",
+    "shipment_id": "SHP-2026-000045",
+    "prediction_time": "2026-10-09T01:00:00Z",
+    "predicted_eta": "2026-10-10T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000046-20261014T100000",
+    "shipment_id": "SHP-2026-000046",
+    "prediction_time": "2026-10-14T10:00:00Z",
+    "predicted_eta": "2026-10-15T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000047-20261019T070000",
+    "shipment_id": "SHP-2026-000047",
+    "prediction_time": "2026-10-19T07:00:00Z",
+    "predicted_eta": "2026-10-20T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000048-20261016T090000",
+    "shipment_id": "SHP-2026-000048",
+    "prediction_time": "2026-10-16T09:00:00Z",
+    "predicted_eta": "2026-10-17T09:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000049-20261004T030000",
+    "shipment_id": "SHP-2026-000049",
+    "prediction_time": "2026-10-04T03:00:00Z",
+    "predicted_eta": "2026-10-05T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000050-20261007T090000",
+    "shipment_id": "SHP-2026-000050",
+    "prediction_time": "2026-10-07T09:00:00Z",
+    "predicted_eta": "2026-10-08T09:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000051-20261019T100000",
+    "shipment_id": "SHP-2026-000051",
+    "prediction_time": "2026-10-19T10:00:00Z",
+    "predicted_eta": "2026-10-20T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000052-20261014T140000",
+    "shipment_id": "SHP-2026-000052",
+    "prediction_time": "2026-10-14T14:00:00Z",
+    "predicted_eta": "2026-10-15T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000053-20261004T050000",
+    "shipment_id": "SHP-2026-000053",
+    "prediction_time": "2026-10-04T05:00:00Z",
+    "predicted_eta": "2026-10-05T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000054-20261022T110000",
+    "shipment_id": "SHP-2026-000054",
+    "prediction_time": "2026-10-22T11:00:00Z",
+    "predicted_eta": "2026-10-23T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000055-20261011T160000",
+    "shipment_id": "SHP-2026-000055",
+    "prediction_time": "2026-10-11T16:00:00Z",
+    "predicted_eta": "2026-10-12T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000056-20261007T220000",
+    "shipment_id": "SHP-2026-000056",
+    "prediction_time": "2026-10-07T22:00:00Z",
+    "predicted_eta": "2026-10-08T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000057-20261009T210000",
+    "shipment_id": "SHP-2026-000057",
+    "prediction_time": "2026-10-09T21:00:00Z",
+    "predicted_eta": "2026-10-10T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000058-20261016T220000",
+    "shipment_id": "SHP-2026-000058",
+    "prediction_time": "2026-10-16T22:00:00Z",
+    "predicted_eta": "2026-10-17T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000059-20261010T210000",
+    "shipment_id": "SHP-2026-000059",
+    "prediction_time": "2026-10-10T21:00:00Z",
+    "predicted_eta": "2026-10-11T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000060-20261007T180000",
+    "shipment_id": "SHP-2026-000060",
+    "prediction_time": "2026-10-07T18:00:00Z",
+    "predicted_eta": "2026-10-08T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000061-20261015T110000",
+    "shipment_id": "SHP-2026-000061",
+    "prediction_time": "2026-10-15T11:00:00Z",
+    "predicted_eta": "2026-10-16T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000062-20261011T110000",
+    "shipment_id": "SHP-2026-000062",
+    "prediction_time": "2026-10-11T11:00:00Z",
+    "predicted_eta": "2026-10-12T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000063-20261018T230000",
+    "shipment_id": "SHP-2026-000063",
+    "prediction_time": "2026-10-18T23:00:00Z",
+    "predicted_eta": "2026-10-19T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000064-20261006T040000",
+    "shipment_id": "SHP-2026-000064",
+    "prediction_time": "2026-10-06T04:00:00Z",
+    "predicted_eta": "2026-10-07T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000065-20261006T080000",
+    "shipment_id": "SHP-2026-000065",
+    "prediction_time": "2026-10-06T08:00:00Z",
+    "predicted_eta": "2026-10-07T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000066-20261007T200000",
+    "shipment_id": "SHP-2026-000066",
+    "prediction_time": "2026-10-07T20:00:00Z",
+    "predicted_eta": "2026-10-08T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000067-20261005T200000",
+    "shipment_id": "SHP-2026-000067",
+    "prediction_time": "2026-10-05T20:00:00Z",
+    "predicted_eta": "2026-10-06T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000068-20261020T180000",
+    "shipment_id": "SHP-2026-000068",
+    "prediction_time": "2026-10-20T18:00:00Z",
+    "predicted_eta": "2026-10-21T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000069-20261014T200000",
+    "shipment_id": "SHP-2026-000069",
+    "prediction_time": "2026-10-14T20:00:00Z",
+    "predicted_eta": "2026-10-15T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000070-20261007T100000",
+    "shipment_id": "SHP-2026-000070",
+    "prediction_time": "2026-10-07T10:00:00Z",
+    "predicted_eta": "2026-10-08T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000071-20261007T180000",
+    "shipment_id": "SHP-2026-000071",
+    "prediction_time": "2026-10-07T18:00:00Z",
+    "predicted_eta": "2026-10-08T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000072-20261019T210000",
+    "shipment_id": "SHP-2026-000072",
+    "prediction_time": "2026-10-19T21:00:00Z",
+    "predicted_eta": "2026-10-20T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000073-20261006T080000",
+    "shipment_id": "SHP-2026-000073",
+    "prediction_time": "2026-10-06T08:00:00Z",
+    "predicted_eta": "2026-10-07T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000074-20261018T230000",
+    "shipment_id": "SHP-2026-000074",
+    "prediction_time": "2026-10-18T23:00:00Z",
+    "predicted_eta": "2026-10-19T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000075-20261021T180000",
+    "shipment_id": "SHP-2026-000075",
+    "prediction_time": "2026-10-21T18:00:00Z",
+    "predicted_eta": "2026-10-22T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000076-20261014T150000",
+    "shipment_id": "SHP-2026-000076",
+    "prediction_time": "2026-10-14T15:00:00Z",
+    "predicted_eta": "2026-10-15T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000077-20261007T160000",
+    "shipment_id": "SHP-2026-000077",
+    "prediction_time": "2026-10-07T16:00:00Z",
+    "predicted_eta": "2026-10-08T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000078-20261009T040000",
+    "shipment_id": "SHP-2026-000078",
+    "prediction_time": "2026-10-09T04:00:00Z",
+    "predicted_eta": "2026-10-10T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000079-20261014T180000",
+    "shipment_id": "SHP-2026-000079",
+    "prediction_time": "2026-10-14T18:00:00Z",
+    "predicted_eta": "2026-10-15T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000080-20261006T080000",
+    "shipment_id": "SHP-2026-000080",
+    "prediction_time": "2026-10-06T08:00:00Z",
+    "predicted_eta": "2026-10-07T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000081-20261017T180000",
+    "shipment_id": "SHP-2026-000081",
+    "prediction_time": "2026-10-17T18:00:00Z",
+    "predicted_eta": "2026-10-18T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000082-20261021T110000",
+    "shipment_id": "SHP-2026-000082",
+    "prediction_time": "2026-10-21T11:00:00Z",
+    "predicted_eta": "2026-10-22T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000083-20261005T090000",
+    "shipment_id": "SHP-2026-000083",
+    "prediction_time": "2026-10-05T09:00:00Z",
+    "predicted_eta": "2026-10-06T09:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000084-20261019T110000",
+    "shipment_id": "SHP-2026-000084",
+    "prediction_time": "2026-10-19T11:00:00Z",
+    "predicted_eta": "2026-10-20T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000085-20261010T060000",
+    "shipment_id": "SHP-2026-000085",
+    "prediction_time": "2026-10-10T06:00:00Z",
+    "predicted_eta": "2026-10-11T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000086-20261014T120000",
+    "shipment_id": "SHP-2026-000086",
+    "prediction_time": "2026-10-14T12:00:00Z",
+    "predicted_eta": "2026-10-15T12:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000087-20261011T220000",
+    "shipment_id": "SHP-2026-000087",
+    "prediction_time": "2026-10-11T22:00:00Z",
+    "predicted_eta": "2026-10-12T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000088-20261013T030000",
+    "shipment_id": "SHP-2026-000088",
+    "prediction_time": "2026-10-13T03:00:00Z",
+    "predicted_eta": "2026-10-14T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000089-20261005T230000",
+    "shipment_id": "SHP-2026-000089",
+    "prediction_time": "2026-10-05T23:00:00Z",
+    "predicted_eta": "2026-10-06T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000090-20261020T210000",
+    "shipment_id": "SHP-2026-000090",
+    "prediction_time": "2026-10-20T21:00:00Z",
+    "predicted_eta": "2026-10-21T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000091-20261019T230000",
+    "shipment_id": "SHP-2026-000091",
+    "prediction_time": "2026-10-19T23:00:00Z",
+    "predicted_eta": "2026-10-20T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000092-20261017T220000",
+    "shipment_id": "SHP-2026-000092",
+    "prediction_time": "2026-10-17T22:00:00Z",
+    "predicted_eta": "2026-10-18T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000093-20261014T130000",
+    "shipment_id": "SHP-2026-000093",
+    "prediction_time": "2026-10-14T13:00:00Z",
+    "predicted_eta": "2026-10-15T13:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000094-20261004T070000",
+    "shipment_id": "SHP-2026-000094",
+    "prediction_time": "2026-10-04T07:00:00Z",
+    "predicted_eta": "2026-10-05T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000095-20261009T130000",
+    "shipment_id": "SHP-2026-000095",
+    "prediction_time": "2026-10-09T13:00:00Z",
+    "predicted_eta": "2026-10-10T13:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000096-20261006T020000",
+    "shipment_id": "SHP-2026-000096",
+    "prediction_time": "2026-10-06T02:00:00Z",
+    "predicted_eta": "2026-10-07T02:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000097-20261019T190000",
+    "shipment_id": "SHP-2026-000097",
+    "prediction_time": "2026-10-19T19:00:00Z",
+    "predicted_eta": "2026-10-20T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000098-20261012T220000",
+    "shipment_id": "SHP-2026-000098",
+    "prediction_time": "2026-10-12T22:00:00Z",
+    "predicted_eta": "2026-10-13T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000099-20261016T160000",
+    "shipment_id": "SHP-2026-000099",
+    "prediction_time": "2026-10-16T16:00:00Z",
+    "predicted_eta": "2026-10-17T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000100-20261005T000000",
+    "shipment_id": "SHP-2026-000100",
+    "prediction_time": "2026-10-05T00:00:00Z",
+    "predicted_eta": "2026-10-06T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000101-20261017T060000",
+    "shipment_id": "SHP-2026-000101",
+    "prediction_time": "2026-10-17T06:00:00Z",
+    "predicted_eta": "2026-10-18T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000102-20261004T230000",
+    "shipment_id": "SHP-2026-000102",
+    "prediction_time": "2026-10-04T23:00:00Z",
+    "predicted_eta": "2026-10-05T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000103-20261021T080000",
+    "shipment_id": "SHP-2026-000103",
+    "prediction_time": "2026-10-21T08:00:00Z",
+    "predicted_eta": "2026-10-22T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000104-20261002T040000",
+    "shipment_id": "SHP-2026-000104",
+    "prediction_time": "2026-10-02T04:00:00Z",
+    "predicted_eta": "2026-10-03T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000105-20261010T110000",
+    "shipment_id": "SHP-2026-000105",
+    "prediction_time": "2026-10-10T11:00:00Z",
+    "predicted_eta": "2026-10-11T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000106-20261014T140000",
+    "shipment_id": "SHP-2026-000106",
+    "prediction_time": "2026-10-14T14:00:00Z",
+    "predicted_eta": "2026-10-15T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000107-20261003T000000",
+    "shipment_id": "SHP-2026-000107",
+    "prediction_time": "2026-10-03T00:00:00Z",
+    "predicted_eta": "2026-10-04T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000108-20261011T160000",
+    "shipment_id": "SHP-2026-000108",
+    "prediction_time": "2026-10-11T16:00:00Z",
+    "predicted_eta": "2026-10-12T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000109-20261004T190000",
+    "shipment_id": "SHP-2026-000109",
+    "prediction_time": "2026-10-04T19:00:00Z",
+    "predicted_eta": "2026-10-05T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000110-20261020T160000",
+    "shipment_id": "SHP-2026-000110",
+    "prediction_time": "2026-10-20T16:00:00Z",
+    "predicted_eta": "2026-10-21T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000111-20261021T020000",
+    "shipment_id": "SHP-2026-000111",
+    "prediction_time": "2026-10-21T02:00:00Z",
+    "predicted_eta": "2026-10-22T02:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000112-20261018T200000",
+    "shipment_id": "SHP-2026-000112",
+    "prediction_time": "2026-10-18T20:00:00Z",
+    "predicted_eta": "2026-10-19T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000113-20261010T000000",
+    "shipment_id": "SHP-2026-000113",
+    "prediction_time": "2026-10-10T00:00:00Z",
+    "predicted_eta": "2026-10-11T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000114-20261020T080000",
+    "shipment_id": "SHP-2026-000114",
+    "prediction_time": "2026-10-20T08:00:00Z",
+    "predicted_eta": "2026-10-21T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000115-20261014T180000",
+    "shipment_id": "SHP-2026-000115",
+    "prediction_time": "2026-10-14T18:00:00Z",
+    "predicted_eta": "2026-10-15T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000116-20261018T150000",
+    "shipment_id": "SHP-2026-000116",
+    "prediction_time": "2026-10-18T15:00:00Z",
+    "predicted_eta": "2026-10-19T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000117-20261001T070000",
+    "shipment_id": "SHP-2026-000117",
+    "prediction_time": "2026-10-01T07:00:00Z",
+    "predicted_eta": "2026-10-02T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000118-20261010T140000",
+    "shipment_id": "SHP-2026-000118",
+    "prediction_time": "2026-10-10T14:00:00Z",
+    "predicted_eta": "2026-10-11T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000119-20261018T230000",
+    "shipment_id": "SHP-2026-000119",
+    "prediction_time": "2026-10-18T23:00:00Z",
+    "predicted_eta": "2026-10-19T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000120-20261013T020000",
+    "shipment_id": "SHP-2026-000120",
+    "prediction_time": "2026-10-13T02:00:00Z",
+    "predicted_eta": "2026-10-14T02:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000121-20261019T010000",
+    "shipment_id": "SHP-2026-000121",
+    "prediction_time": "2026-10-19T01:00:00Z",
+    "predicted_eta": "2026-10-20T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000122-20261018T050000",
+    "shipment_id": "SHP-2026-000122",
+    "prediction_time": "2026-10-18T05:00:00Z",
+    "predicted_eta": "2026-10-19T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000123-20261010T110000",
+    "shipment_id": "SHP-2026-000123",
+    "prediction_time": "2026-10-10T11:00:00Z",
+    "predicted_eta": "2026-10-11T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000124-20261012T140000",
+    "shipment_id": "SHP-2026-000124",
+    "prediction_time": "2026-10-12T14:00:00Z",
+    "predicted_eta": "2026-10-13T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000125-20261006T060000",
+    "shipment_id": "SHP-2026-000125",
+    "prediction_time": "2026-10-06T06:00:00Z",
+    "predicted_eta": "2026-10-07T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000126-20261013T080000",
+    "shipment_id": "SHP-2026-000126",
+    "prediction_time": "2026-10-13T08:00:00Z",
+    "predicted_eta": "2026-10-14T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000127-20261020T180000",
+    "shipment_id": "SHP-2026-000127",
+    "prediction_time": "2026-10-20T18:00:00Z",
+    "predicted_eta": "2026-10-21T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000128-20261001T170000",
+    "shipment_id": "SHP-2026-000128",
+    "prediction_time": "2026-10-01T17:00:00Z",
+    "predicted_eta": "2026-10-02T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000129-20261002T060000",
+    "shipment_id": "SHP-2026-000129",
+    "prediction_time": "2026-10-02T06:00:00Z",
+    "predicted_eta": "2026-10-03T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000130-20261020T030000",
+    "shipment_id": "SHP-2026-000130",
+    "prediction_time": "2026-10-20T03:00:00Z",
+    "predicted_eta": "2026-10-21T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000131-20261005T150000",
+    "shipment_id": "SHP-2026-000131",
+    "prediction_time": "2026-10-05T15:00:00Z",
+    "predicted_eta": "2026-10-06T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000132-20261017T050000",
+    "shipment_id": "SHP-2026-000132",
+    "prediction_time": "2026-10-17T05:00:00Z",
+    "predicted_eta": "2026-10-18T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000133-20261014T010000",
+    "shipment_id": "SHP-2026-000133",
+    "prediction_time": "2026-10-14T01:00:00Z",
+    "predicted_eta": "2026-10-15T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000134-20261010T220000",
+    "shipment_id": "SHP-2026-000134",
+    "prediction_time": "2026-10-10T22:00:00Z",
+    "predicted_eta": "2026-10-11T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000135-20261013T140000",
+    "shipment_id": "SHP-2026-000135",
+    "prediction_time": "2026-10-13T14:00:00Z",
+    "predicted_eta": "2026-10-14T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000136-20261006T180000",
+    "shipment_id": "SHP-2026-000136",
+    "prediction_time": "2026-10-06T18:00:00Z",
+    "predicted_eta": "2026-10-07T18:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000137-20261016T220000",
+    "shipment_id": "SHP-2026-000137",
+    "prediction_time": "2026-10-16T22:00:00Z",
+    "predicted_eta": "2026-10-17T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000138-20261014T160000",
+    "shipment_id": "SHP-2026-000138",
+    "prediction_time": "2026-10-14T16:00:00Z",
+    "predicted_eta": "2026-10-15T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000139-20261016T210000",
+    "shipment_id": "SHP-2026-000139",
+    "prediction_time": "2026-10-16T21:00:00Z",
+    "predicted_eta": "2026-10-17T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000140-20261009T150000",
+    "shipment_id": "SHP-2026-000140",
+    "prediction_time": "2026-10-09T15:00:00Z",
+    "predicted_eta": "2026-10-10T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000141-20261002T050000",
+    "shipment_id": "SHP-2026-000141",
+    "prediction_time": "2026-10-02T05:00:00Z",
+    "predicted_eta": "2026-10-03T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000142-20261011T160000",
+    "shipment_id": "SHP-2026-000142",
+    "prediction_time": "2026-10-11T16:00:00Z",
+    "predicted_eta": "2026-10-12T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000143-20261015T170000",
+    "shipment_id": "SHP-2026-000143",
+    "prediction_time": "2026-10-15T17:00:00Z",
+    "predicted_eta": "2026-10-16T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000144-20261009T110000",
+    "shipment_id": "SHP-2026-000144",
+    "prediction_time": "2026-10-09T11:00:00Z",
+    "predicted_eta": "2026-10-10T11:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000145-20261002T130000",
+    "shipment_id": "SHP-2026-000145",
+    "prediction_time": "2026-10-02T13:00:00Z",
+    "predicted_eta": "2026-10-03T13:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000146-20261007T190000",
+    "shipment_id": "SHP-2026-000146",
+    "prediction_time": "2026-10-07T19:00:00Z",
+    "predicted_eta": "2026-10-08T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000147-20261006T210000",
+    "shipment_id": "SHP-2026-000147",
+    "prediction_time": "2026-10-06T21:00:00Z",
+    "predicted_eta": "2026-10-07T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000148-20261020T150000",
+    "shipment_id": "SHP-2026-000148",
+    "prediction_time": "2026-10-20T15:00:00Z",
+    "predicted_eta": "2026-10-21T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000149-20261019T150000",
+    "shipment_id": "SHP-2026-000149",
+    "prediction_time": "2026-10-19T15:00:00Z",
+    "predicted_eta": "2026-10-20T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000150-20261002T160000",
+    "shipment_id": "SHP-2026-000150",
+    "prediction_time": "2026-10-02T16:00:00Z",
+    "predicted_eta": "2026-10-03T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000151-20261010T070000",
+    "shipment_id": "SHP-2026-000151",
+    "prediction_time": "2026-10-10T07:00:00Z",
+    "predicted_eta": "2026-10-11T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000152-20261015T010000",
+    "shipment_id": "SHP-2026-000152",
+    "prediction_time": "2026-10-15T01:00:00Z",
+    "predicted_eta": "2026-10-16T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000153-20261020T080000",
+    "shipment_id": "SHP-2026-000153",
+    "prediction_time": "2026-10-20T08:00:00Z",
+    "predicted_eta": "2026-10-21T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000154-20261008T100000",
+    "shipment_id": "SHP-2026-000154",
+    "prediction_time": "2026-10-08T10:00:00Z",
+    "predicted_eta": "2026-10-09T10:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000155-20261010T150000",
+    "shipment_id": "SHP-2026-000155",
+    "prediction_time": "2026-10-10T15:00:00Z",
+    "predicted_eta": "2026-10-11T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000156-20261016T050000",
+    "shipment_id": "SHP-2026-000156",
+    "prediction_time": "2026-10-16T05:00:00Z",
+    "predicted_eta": "2026-10-17T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000157-20261016T210000",
+    "shipment_id": "SHP-2026-000157",
+    "prediction_time": "2026-10-16T21:00:00Z",
+    "predicted_eta": "2026-10-17T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000158-20261009T210000",
+    "shipment_id": "SHP-2026-000158",
+    "prediction_time": "2026-10-09T21:00:00Z",
+    "predicted_eta": "2026-10-10T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000159-20261004T080000",
+    "shipment_id": "SHP-2026-000159",
+    "prediction_time": "2026-10-04T08:00:00Z",
+    "predicted_eta": "2026-10-05T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000160-20261004T120000",
+    "shipment_id": "SHP-2026-000160",
+    "prediction_time": "2026-10-04T12:00:00Z",
+    "predicted_eta": "2026-10-05T12:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000161-20261019T200000",
+    "shipment_id": "SHP-2026-000161",
+    "prediction_time": "2026-10-19T20:00:00Z",
+    "predicted_eta": "2026-10-20T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000162-20261017T200000",
+    "shipment_id": "SHP-2026-000162",
+    "prediction_time": "2026-10-17T20:00:00Z",
+    "predicted_eta": "2026-10-18T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000163-20261005T200000",
+    "shipment_id": "SHP-2026-000163",
+    "prediction_time": "2026-10-05T20:00:00Z",
+    "predicted_eta": "2026-10-06T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000164-20261010T030000",
+    "shipment_id": "SHP-2026-000164",
+    "prediction_time": "2026-10-10T03:00:00Z",
+    "predicted_eta": "2026-10-11T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000165-20261008T190000",
+    "shipment_id": "SHP-2026-000165",
+    "prediction_time": "2026-10-08T19:00:00Z",
+    "predicted_eta": "2026-10-09T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000166-20261005T080000",
+    "shipment_id": "SHP-2026-000166",
+    "prediction_time": "2026-10-05T08:00:00Z",
+    "predicted_eta": "2026-10-06T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000167-20261016T160000",
+    "shipment_id": "SHP-2026-000167",
+    "prediction_time": "2026-10-16T16:00:00Z",
+    "predicted_eta": "2026-10-17T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000168-20261007T140000",
+    "shipment_id": "SHP-2026-000168",
+    "prediction_time": "2026-10-07T14:00:00Z",
+    "predicted_eta": "2026-10-08T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000169-20261003T170000",
+    "shipment_id": "SHP-2026-000169",
+    "prediction_time": "2026-10-03T17:00:00Z",
+    "predicted_eta": "2026-10-04T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000170-20261003T140000",
+    "shipment_id": "SHP-2026-000170",
+    "prediction_time": "2026-10-03T14:00:00Z",
+    "predicted_eta": "2026-10-04T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000171-20261020T150000",
+    "shipment_id": "SHP-2026-000171",
+    "prediction_time": "2026-10-20T15:00:00Z",
+    "predicted_eta": "2026-10-21T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000172-20261006T070000",
+    "shipment_id": "SHP-2026-000172",
+    "prediction_time": "2026-10-06T07:00:00Z",
+    "predicted_eta": "2026-10-07T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000173-20261017T000000",
+    "shipment_id": "SHP-2026-000173",
+    "prediction_time": "2026-10-17T00:00:00Z",
+    "predicted_eta": "2026-10-18T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000174-20261011T220000",
+    "shipment_id": "SHP-2026-000174",
+    "prediction_time": "2026-10-11T22:00:00Z",
+    "predicted_eta": "2026-10-12T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000175-20261013T170000",
+    "shipment_id": "SHP-2026-000175",
+    "prediction_time": "2026-10-13T17:00:00Z",
+    "predicted_eta": "2026-10-14T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000176-20261011T010000",
+    "shipment_id": "SHP-2026-000176",
+    "prediction_time": "2026-10-11T01:00:00Z",
+    "predicted_eta": "2026-10-12T01:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000177-20261010T190000",
+    "shipment_id": "SHP-2026-000177",
+    "prediction_time": "2026-10-10T19:00:00Z",
+    "predicted_eta": "2026-10-11T19:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000178-20261005T150000",
+    "shipment_id": "SHP-2026-000178",
+    "prediction_time": "2026-10-05T15:00:00Z",
+    "predicted_eta": "2026-10-06T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000179-20261007T050000",
+    "shipment_id": "SHP-2026-000179",
+    "prediction_time": "2026-10-07T05:00:00Z",
+    "predicted_eta": "2026-10-08T05:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000180-20261014T070000",
+    "shipment_id": "SHP-2026-000180",
+    "prediction_time": "2026-10-14T07:00:00Z",
+    "predicted_eta": "2026-10-15T07:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000181-20261007T000000",
+    "shipment_id": "SHP-2026-000181",
+    "prediction_time": "2026-10-07T00:00:00Z",
+    "predicted_eta": "2026-10-08T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000182-20261008T040000",
+    "shipment_id": "SHP-2026-000182",
+    "prediction_time": "2026-10-08T04:00:00Z",
+    "predicted_eta": "2026-10-09T04:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000183-20261001T160000",
+    "shipment_id": "SHP-2026-000183",
+    "prediction_time": "2026-10-01T16:00:00Z",
+    "predicted_eta": "2026-10-02T16:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000184-20261014T230000",
+    "shipment_id": "SHP-2026-000184",
+    "prediction_time": "2026-10-14T23:00:00Z",
+    "predicted_eta": "2026-10-15T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000185-20261007T210000",
+    "shipment_id": "SHP-2026-000185",
+    "prediction_time": "2026-10-07T21:00:00Z",
+    "predicted_eta": "2026-10-08T21:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000186-20261003T080000",
+    "shipment_id": "SHP-2026-000186",
+    "prediction_time": "2026-10-03T08:00:00Z",
+    "predicted_eta": "2026-10-04T08:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000187-20261006T220000",
+    "shipment_id": "SHP-2026-000187",
+    "prediction_time": "2026-10-06T22:00:00Z",
+    "predicted_eta": "2026-10-07T22:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000188-20261009T140000",
+    "shipment_id": "SHP-2026-000188",
+    "prediction_time": "2026-10-09T14:00:00Z",
+    "predicted_eta": "2026-10-10T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000189-20261005T170000",
+    "shipment_id": "SHP-2026-000189",
+    "prediction_time": "2026-10-05T17:00:00Z",
+    "predicted_eta": "2026-10-06T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000190-20261004T150000",
+    "shipment_id": "SHP-2026-000190",
+    "prediction_time": "2026-10-04T15:00:00Z",
+    "predicted_eta": "2026-10-05T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000191-20261001T230000",
+    "shipment_id": "SHP-2026-000191",
+    "prediction_time": "2026-10-01T23:00:00Z",
+    "predicted_eta": "2026-10-02T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000192-20261017T150000",
+    "shipment_id": "SHP-2026-000192",
+    "prediction_time": "2026-10-17T15:00:00Z",
+    "predicted_eta": "2026-10-18T15:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000193-20261016T060000",
+    "shipment_id": "SHP-2026-000193",
+    "prediction_time": "2026-10-16T06:00:00Z",
+    "predicted_eta": "2026-10-17T06:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000194-20261007T030000",
+    "shipment_id": "SHP-2026-000194",
+    "prediction_time": "2026-10-07T03:00:00Z",
+    "predicted_eta": "2026-10-08T03:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000195-20261002T230000",
+    "shipment_id": "SHP-2026-000195",
+    "prediction_time": "2026-10-02T23:00:00Z",
+    "predicted_eta": "2026-10-03T23:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000196-20261016T200000",
+    "shipment_id": "SHP-2026-000196",
+    "prediction_time": "2026-10-16T20:00:00Z",
+    "predicted_eta": "2026-10-17T20:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000197-20261020T170000",
+    "shipment_id": "SHP-2026-000197",
+    "prediction_time": "2026-10-20T17:00:00Z",
+    "predicted_eta": "2026-10-21T17:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000198-20261001T140000",
+    "shipment_id": "SHP-2026-000198",
+    "prediction_time": "2026-10-01T14:00:00Z",
+    "predicted_eta": "2026-10-02T14:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000199-20261005T000000",
+    "shipment_id": "SHP-2026-000199",
+    "prediction_time": "2026-10-05T00:00:00Z",
+    "predicted_eta": "2026-10-06T00:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  },
+  {
+    "eta_id": "ETA-SHP-2026-000200-20261010T090000",
+    "shipment_id": "SHP-2026-000200",
+    "prediction_time": "2026-10-10T09:00:00Z",
+    "predicted_eta": "2026-10-11T09:00:00Z",
+    "predicted_delay": false,
+    "model_version": "rule-baseline-v1"
+  }
+]

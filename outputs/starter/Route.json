@@ -1,0 +1,82 @@
+[
+  {
+    "route_id": "RTE-000001",
+    "origin_facility_id": "FAC-000001",
+    "destination_facility_id": "FAC-000002",
+    "distance_km": 802,
+    "planned_duration_hours": 7,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000002",
+    "origin_facility_id": "FAC-000002",
+    "destination_facility_id": "FAC-000003",
+    "distance_km": 1247,
+    "planned_duration_hours": 14,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000003",
+    "origin_facility_id": "FAC-000003",
+    "destination_facility_id": "FAC-000004",
+    "distance_km": 1022,
+    "planned_duration_hours": 4,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000004",
+    "origin_facility_id": "FAC-000004",
+    "destination_facility_id": "FAC-000005",
+    "distance_km": 176,
+    "planned_duration_hours": 29,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000005",
+    "origin_facility_id": "FAC-000005",
+    "destination_facility_id": "FAC-000006",
+    "distance_km": 353,
+    "planned_duration_hours": 7,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000006",
+    "origin_facility_id": "FAC-000006",
+    "destination_facility_id": "FAC-000007",
+    "distance_km": 986,
+    "planned_duration_hours": 5,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000007",
+    "origin_facility_id": "FAC-000007",
+    "destination_facility_id": "FAC-000008",
+    "distance_km": 271,
+    "planned_duration_hours": 21,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000008",
+    "origin_facility_id": "FAC-000008",
+    "destination_facility_id": "FAC-000009",
+    "distance_km": 508,
+    "planned_duration_hours": 19,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000009",
+    "origin_facility_id": "FAC-000009",
+    "destination_facility_id": "FAC-000010",
+    "distance_km": 1101,
+    "planned_duration_hours": 13,
+    "active": true
+  },
+  {
+    "route_id": "RTE-000010",
+    "origin_facility_id": "FAC-000010",
+    "destination_facility_id": "FAC-000001",
+    "distance_km": 244,
+    "planned_duration_hours": 29,
+    "active": true
+  }
+]

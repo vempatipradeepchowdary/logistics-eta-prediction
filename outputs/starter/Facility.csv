@@ -1,0 +1,11 @@
+facility_id,facility_name,city,facility_type,timezone,operating_start_hour,operating_end_hour
+FAC-000001,Facility 001,Pune,distribution_center,UTC,6,22
+FAC-000002,Facility 002,Delhi,warehouse,UTC,6,22
+FAC-000003,Facility 003,Hyderabad,warehouse,UTC,6,22
+FAC-000004,Facility 004,Mumbai,warehouse,UTC,6,22
+FAC-000005,Facility 005,Hyderabad,distribution_center,UTC,6,22
+FAC-000006,Facility 006,Chennai,warehouse,UTC,6,22
+FAC-000007,Facility 007,Mumbai,warehouse,UTC,6,22
+FAC-000008,Facility 008,Delhi,distribution_center,UTC,6,22
+FAC-000009,Facility 009,Bengaluru,distribution_center,UTC,6,22
+FAC-000010,Facility 010,Mumbai,warehouse,UTC,6,22

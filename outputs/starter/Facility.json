@@ -1,0 +1,92 @@
+[
+  {
+    "facility_id": "FAC-000001",
+    "facility_name": "Facility 001",
+    "city": "Pune",
+    "facility_type": "distribution_center",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000002",
+    "facility_name": "Facility 002",
+    "city": "Delhi",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000003",
+    "facility_name": "Facility 003",
+    "city": "Hyderabad",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000004",
+    "facility_name": "Facility 004",
+    "city": "Mumbai",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000005",
+    "facility_name": "Facility 005",
+    "city": "Hyderabad",
+    "facility_type": "distribution_center",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000006",
+    "facility_name": "Facility 006",
+    "city": "Chennai",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000007",
+    "facility_name": "Facility 007",
+    "city": "Mumbai",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000008",
+    "facility_name": "Facility 008",
+    "city": "Delhi",
+    "facility_type": "distribution_center",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000009",
+    "facility_name": "Facility 009",
+    "city": "Bengaluru",
+    "facility_type": "distribution_center",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  },
+  {
+    "facility_id": "FAC-000010",
+    "facility_name": "Facility 010",
+    "city": "Mumbai",
+    "facility_type": "warehouse",
+    "timezone": "UTC",
+    "operating_start_hour": 6,
+    "operating_end_hour": 22
+  }
+]
