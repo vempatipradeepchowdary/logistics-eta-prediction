@@ -47,7 +47,7 @@ The fixed random seed is `20261022`.
 
 - Synthetic data may not reflect real-world logistics patterns.
 - Weather and facility-queue effects use simplified rules.
-- The delay classifier currently uses a fixed 60-minute threshold.
+- The delay classifier uses the configured service-level delay threshold, with a 60-minute fallback when the service-level configuration is unavailable.
 - Evaluation metrics depend on the generated dataset and its assumptions.
 - AI assistance does not replace independent code review, testing, or validation.
 
