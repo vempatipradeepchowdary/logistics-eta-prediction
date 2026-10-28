@@ -180,16 +180,16 @@ The full pipeline was executed using `config/full.json`.
 
 - **Mean Absolute Error (MAE):** 80.60 minutes
 - **Root Mean Squared Error (RMSE):** 122.55 minutes
-- **Delay precision:** 0.3524
-- **Delay recall:** 0.1514
-- **Delay F1-score:** 0.2118
+- **Delay precision:** 0.3813
+- **Delay recall:** 0.2036
+- **Delay F1-score:** 0.2654
 
 ### Confusion Matrix
 
-- **True positives:** 2,440
-- **False positives:** 4,484
-- **True negatives:** 24,341
-- **False negatives:** 13,677
+- **True positives:** 3,281
+- **False positives:** 5,324
+- **True negatives:** 23,501
+- **False negatives:** 12,836
 
 The full run completed successfully. Database validation reported two warnings for intentionally injected out-of-order tracking events and no validation errors.
 

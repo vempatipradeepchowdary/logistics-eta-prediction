@@ -300,7 +300,7 @@ def generate_data(config):
     ]
     for index, anomaly_type in enumerate(anomaly_types, start=1):
         ground_truth.append({
-            "shipment_id": f"SHP-2026-{index:06d}",
+            "shipment_id": f"ANOM-2026-{index:06d}",
             "actual_delivery_time": "",
             "actual_delay_minutes": "",
             "is_delayed": "",

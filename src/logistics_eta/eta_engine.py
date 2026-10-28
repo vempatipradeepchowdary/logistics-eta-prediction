@@ -28,6 +28,24 @@ def to_timestamp(value):
 
 
 def predict_shipment_eta(connection, shipment, prediction_time):
+
+    service_level = connection.execute(
+        """
+        SELECT sl.delay_threshold_minutes
+        FROM service_levels AS sl
+        JOIN shipments AS s
+          ON s.service_level_id = sl.service_level_id
+        WHERE s.shipment_id = ?
+        """,
+        (shipment["shipment_id"],),
+    ).fetchone()
+
+    delay_threshold = (
+        int(service_level["delay_threshold_minutes"])
+        if service_level
+        else 60
+    )
+
     """Estimate one shipment's ETA using only data available at prediction time."""
     planned_eta = parse_timestamp(shipment["planned_eta"])
     departure = parse_timestamp(shipment["planned_departure_time"])
@@ -133,7 +151,7 @@ def predict_shipment_eta(connection, shipment, prediction_time):
         "shipment_id": shipment["shipment_id"],
         "prediction_time": to_timestamp(prediction_time),
         "predicted_eta": to_timestamp(estimated_eta),
-        "predicted_delay": int(estimated_eta > planned_eta + timedelta(minutes=60)),
+        "predicted_delay": int(estimated_eta > planned_eta + timedelta(minutes=delay_threshold)),
         "model_version": MODEL_VERSION,
     }
 
@@ -161,6 +179,7 @@ def predict_all_shipments(database_path, prediction_hours_before_eta=24):
 
         for shipment in shipments:
             planned_eta = parse_timestamp(shipment["planned_eta"])
+
             prediction_time = planned_eta - timedelta(
                 hours=prediction_hours_before_eta
             )

@@ -48,6 +48,7 @@ class TestEvaluation(unittest.TestCase):
 
     def test_undelivered_shipments_are_excluded(self):
         predictions = []
+
         ground_truth = [
             {
                 "shipment_id": "SHP-003",
@@ -70,6 +71,30 @@ class TestPredictionNoLeakage(unittest.TestCase):
         connection.row_factory = sqlite3.Row
 
         try:
+            connection.execute("""
+                CREATE TABLE service_levels (
+                    service_level_id TEXT PRIMARY KEY,
+                    delay_threshold_minutes INTEGER NOT NULL
+                )
+            """)
+
+            connection.execute("""
+                CREATE TABLE shipments (
+                    shipment_id TEXT PRIMARY KEY,
+                    service_level_id TEXT NOT NULL
+                )
+            """)
+
+            connection.execute("""
+                INSERT INTO service_levels
+                VALUES ('SLA-TEST', 60)
+            """)
+
+            connection.execute("""
+                INSERT INTO shipments
+                VALUES ('SHP-TEST', 'SLA-TEST')
+            """)
+
             connection.execute("""
                 CREATE TABLE tracking_events (
                     shipment_id TEXT,
